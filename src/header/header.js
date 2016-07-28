@@ -1,5 +1,4 @@
-require('./header.css')
-
+import css from './header.css'
 import html from './header.html'
 
 class Header {
